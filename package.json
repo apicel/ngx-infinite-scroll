@@ -1,7 +1,7 @@
 {
-    "name": "ngx-infinite-scroll",
-    "version": "0.5.2",
-    "description": "An infinite scroll directive for Angular compatible with AoT compilation and Tree shaking",
+    "name": "ngx-infinite-scroll-extended",
+    "version": "0.6.4",
+    "description": "Use ngx-infinite-scroll instead!!",
     "main": "./bundles/ngx-infinite-scroll.umd.js",
     "module": "./modules/ngx-infinite-scroll.es5.js",
     "es2015": "./modules/ngx-infinite-scroll.js",
@@ -16,15 +16,15 @@
         "transpile": "ngc -p ./tsconfig.json"
     },
     "typings": "./index.d.ts",
-    "author": "Oren Farhi (orizens.com)",
+    "author": "Zlatko Duric <zladuric@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/orizens/ngx-infinite-scroll.git"
+        "url": "https://github.com/zladuric/ngx-infinite-scroll.git"
     },
     "bugs": {
-        "url": "https://github.com/orizens/ngx-infinite-scroll/issues"
+        "url": "https://github.com/zladuric/ngx-infinite-scroll/issues"
     },
-    "homepage": "https://github.com/orizens/ngx-infinite-scroll",
+    "homepage": "https://github.com/zladuric/ngx-infinite-scroll",
     "keywords": [
         "angular",
         "javascript",

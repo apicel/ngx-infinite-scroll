@@ -1,23 +1,17 @@
-[![Build Status](https://travis-ci.org/orizens/ngx-infinite-scroll.svg?branch=master)](https://travis-ci.org/orizens/ngx-infinite-scroll)
+** Note: ** This package is a personal fork of `ngx-infinite-scroll` until the original project accepts my PR. Better use that package instead because I don't plan to support this (for now).
+
+What I've added is a `scrolledUpBy` functionality to detect if the page was scrolled up by x screens yet.
 
 # Angular Infinite Scroll
 Inspired by [ng-infinite-scroll](https://github.com/sroze/ngInfiniteScroll) directive for angular (> 2, 4).
 
 ## Angular Support
 Supports Angular **> 4**
-For Angular version **<= 2.3.1**, you can use ```npm i angular2-infinite-scroll``` (latest version is 0.3.42) - please notice **the angular2-infinite-scroll** package is deprecated
 
-## Angular Consulting Services
-I'm a Senior Javascript Engineer & A Front End Consultant at [Orizens](http://orizens.com).
-My services include:
-- consulting to companies and startups on how to approach code in their projects and keep it maintainable.
-- I provide project bootstrapping and development - while afterwards, I integrate it on site and guide the team on it.
-
-[Contact Me Here](http://orizens.com/contact)
 
 ## Installation
 ```
-npm install ngx-infinite-scroll --save
+npm install ngx-infinite-scroll-extended --save
 ```
 
 ## Supported API
