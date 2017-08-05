@@ -1,6 +1,6 @@
 {
-    "name": "ngx-infinite-scroll-extended",
-    "version": "0.6.4",
+    "name": "@zladuric/ngx-infinite-scroll",
+    "version": "0.6.6",
     "description": "Use ngx-infinite-scroll instead!!",
     "main": "./bundles/ngx-infinite-scroll.umd.js",
     "module": "./modules/ngx-infinite-scroll.es5.js",
